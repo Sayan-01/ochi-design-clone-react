@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.g {
+  font-family: "Fjalla One", sans-serif;
+}
+
+.antonio-g {
+  font-family: "Bebas Neue", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
